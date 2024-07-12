@@ -1,0 +1,8 @@
+https://github.com/UB-Mannheim/tesseract/wiki
+echo "# Smart-Plate-Vision-API" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/DeekshithMRai/Smart-Plate-Vision-API.git
+git push -u origin master

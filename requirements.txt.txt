@@ -1,0 +1,6 @@
+Flask
+pandas
+opencv-python-headless
+ultralytics
+numpy
+pytesseract
